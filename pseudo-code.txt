@@ -1,0 +1,29 @@
+1. Ordinare una pizza
+Tu non hai fame?!
+Dopo una lunga giornata passata al pc, ho proprio voglia di concedermi una bella pizza succulenta! Sì, ma quale? Fammi dare un occhio al listino… Va beh, è inutile, tanto alla fine ordino sempre la stessa: una classica prosciutto e funghi. La pizza arriva ancora fumante, chissà se riuscirò a mangiarla tutta!
+Di sicuro se ne avanzo una fetta devo ricordarmi di metterla in frigo, non come l’ultima volta! 
+
+
+
+DATI:
+	- Fame
+	- Listino Pizza/menu 
+	- Scelgo Pizza
+
+1 	Spengo il PC
+2	Scelgo pizzeria
+3	Prendo Menu Pizzeria
+4	Leggo menu:
+		 leggo tutte le pizze disponibili.
+5	Ne ho scelta una?:
+		se si fine;
+		altrimenti ordino prosciutto e funghi;
+6	Scelgo Pizza
+7	Ordino
+8 	Arriva la pizza
+9	Mangio la pizza:
+		se la finisco fine
+		se avanza la metto in frigo per il giorno dopo
+10	Controllo se la pizza è in frigo
+		se in frigo fine;
+		altrimenti la metto in frigo.
